@@ -19,7 +19,7 @@ const commentData = [
     {
         user_id: 3,
         post_id: 5,
-        comment_text: "We just reached a million subscribers! Fantastic!"
+        comment_text: "Awesome writing!"
     },
     {
         user_id: 3,
@@ -34,12 +34,12 @@ const commentData = [
     {
         user_id: 5,
         post_id: 3,
-        comment_text: "Very useful tool!"
+        comment_text: "Very insightful!"
     },
     {
         user_id: 2,
         post_id: 1,
-        comment_text: "Nice tool!"
+        comment_text: "Great journalism."
     }
 ]
 

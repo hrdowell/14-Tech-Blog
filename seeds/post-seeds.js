@@ -2,8 +2,8 @@ const { Post } = require('../models');
 
 const postData = [
     {
-        title: "Taskmaster goes public!",
-        post_content: "Taskinator is a task-tracker app that will allow you to organize your personal to-do list items by clicking and dragging them into categories like To Do, In Progress, and Completed.",
+        title: "New Microsoft Office is coming: Release date, pricing and major changes",
+        post_content: "Microsoft's new, flat-price version of its Office productivity software will arrive on Oct. 5 -- the same day Windows 11 begins rolling out, according to a company blog post Thursday. Microsoft previously emphasized that while its main focus remains in its subscription offering, Microsoft 365, it will release the one-time purchase Office 2021 for those who aren't ready to move to the cloud.",
         user_id: 3
     },
     {

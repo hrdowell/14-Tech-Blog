@@ -16,17 +16,17 @@ const userData = [
         password: "p@ssword2"
     },
     {
-        username: "shaun_c",
-        twitter: "shaun",
-        github: "shaun",
-        email: "shaun_c@gmail.com",
+        username: "shauna_c",
+        twitter: "shauna",
+        github: "shauna",
+        email: "shauna_c@gmail.com",
         password: "p@ssword3"
     },
     {
-        username: "lee_n",
-        twitter: "leenorris",
-        github: "leenorris",
-        email: "lee_n@gmail.com",
+        username: "lorelai_g",
+        twitter: "lorelai_g123",
+        github: "lorelai_g",
+        email: "lorelai_g@gmail.com",
         password: "p@ssword4"
     },
     {
